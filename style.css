@@ -78,3 +78,8 @@ footer {
   margin-top: 60px;
 }
 
+.main-content {
+  flex: 1;
+}
+
+
